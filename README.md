@@ -1,1 +1,1 @@
-# Simplte TODO App made with React,shadcn,tailwindcss, node, express
+### Simple TODO App made with React, shadcn, tailwindcss, node, express
